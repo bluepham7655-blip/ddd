@@ -1,0 +1,5 @@
+{
+  "name": "Scientific Document Translator",
+  "description": "An application to translate scientific documents (math, physics, chemistry, biology) from Vietnamese to English, preserving all original formulas, equations, and formatting. Users can upload a file and select an output format (Word or PDF).",
+  "requestFramePermissions": []
+}
